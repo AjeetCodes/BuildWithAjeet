@@ -1,4 +1,4 @@
-# 🐍 **Python With Ajeet**
+# 🐍 **Build With Ajeet**
 > _“One commit a day. One step closer to mastery.”_  
 
 <p align="center">
