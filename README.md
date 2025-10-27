@@ -1,127 +1,123 @@
-# 🐍 **Build With Ajeet**
-> _“One commit a day. One step closer to mastery.”_  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="250">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNua2xqazNreXh3MW82YWtmYjdtNXdtbnFxeG43N2p5NnhzMTQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Laptop Animation">
+</p>
+
+<h1 align="center">👋 Hey, I'm Ajeet Yadav</h1>
+<p align="center">
+  🚀 Software Engineer | GenAI Enthusiast | Mentor  
 </p>
 
 <p align="center">
-  <a href="https://github.com/AjeetCodes/BuildWithPython/stargazers"><img src="https://img.shields.io/github/stars/AjeetCodes/BuildWithPython?style=social" alt="Stars Badge"/></a>
-  <a href="https://github.com/AjeetCodes?tab=followers"><img src="https://img.shields.io/github/followers/AjeetCodes?label=Follow&style=social" alt="Follow Badge"/></a>
-  <a href="https://www.linkedin.com/in/ajeet-yadav-55a0861a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://www.youtube.com/@buildwithajeet"><img src="https://img.shields.io/badge/YouTube-BuildWithAjeet-red?style=flat&logo=youtube"></a>
-  <a href="https://www.instagram.com/buildwithajeet"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=flat&logo=instagram"></a>
-</p>
-
----
-
-## 📘 **About This Repo**
-
-Welcome to **Build With Python**,  
-where I document my **daily Python learning journey** — through code, projects, and bite-sized explanations.
-
-🎯 **Goal:** Learn Python deeply, build cool projects, and inspire others to start their own coding journey.  
-
----
-
-## 🗓️ **My Daily Python Journey**
-
-| Day | Topic | Status | Notes |
-|-----|--------|---------|-------|
-| ✅ 1 | Python Basics & Syntax | ✔️ Done | Variables, Data Types |
-| ✅ 2 | Loops & Conditionals | ✔️ Done | for, while, if-else |
-| ✅ 3 | Functions | ⏳ In Progress | |
-| ⏳ 4 | Lists & Tuples | 🔜 | |
-| 🔜 5 | Dictionaries & Sets | | |
-
-📅 *Updated daily as I learn and commit.*
-
----
-
-## 🧠 **Topics I’ll Cover**
-
-- Python Fundamentals  
-- Data Structures & Algorithms  
-- OOP (Object-Oriented Programming)  
-- File Handling & Modules  
-- Decorators & Generators  
-- NumPy / Pandas (Data Analysis)  
-- Streamlit / Flask for mini apps  
-- AI, LLM & RAG with Python  
-
----
-
-## 🛠️ **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🏗️ **Mini Projects Planned**
-| Project | Description | Status |
-|----------|--------------|---------|
-| 🧮 Calculator App | Basic Python CLI calculator | 🔜 |
-| 📦 File Organizer | Organize files by extension | 🔜 |
-| 💬 Chatbot | Mini chatbot using Python | 🔜 |
-| 🌦️ Weather App | API-based app with Streamlit | 🔜 |
-| 🧠 AI Quiz Bot | Uses RAG + LangChain | 🔜 |
-
----
-
-## 📊 **Progress Tracker**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AjeetCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetCodes&repo=BuildWithPython&theme=tokyonight" alt="Repo Stats">
-</p>
-
----
-
-## 🎥 **Follow My Learning Journey**
-
-<p align="center">
-  <a href="https://www.youtube.com/@buildwithajeet">
-    <img src="https://img.shields.io/badge/YouTube-BuildWithAjeet-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/buildwithajeet">
-    <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/AjeetCodes?tab=followers">
+    <img src="https://img.shields.io/github/followers/AjeetCodes?label=Follow&style=social" alt="GitHub Follow Badge" />
   </a>
   <a href="https://www.linkedin.com/in/ajeet-yadav-55a0861a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.youtube.com/@buildwithajeet">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCQSaJhV7ZwOBEDIPZwYF1lA?style=social" alt="YouTube Channel Subscribers" />
+  </a>
+  <a href="mailto:ajeetyadav70520300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajeetyadav70520300%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🧩 **How You Can Use This Repo**
-
-💡 Explore daily commits  
-🧠 Learn from notes and code  
-⚙️ Try exercises yourself  
-🎥 Follow the series on social media  
-
----
-
-## 💬 **Let’s Connect**
-
-If you’re also learning Python, let’s grow together!  
-Drop your questions, ideas, or collab requests here 👇  
-
-📧 **ajeetyadav70520300@gmail.com**
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:1a73e8&height=120&section=footer" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=440&lines=Building+AI+Apps+that+Learn+from+Data...;Exploring+RAG+%7C+LLMs+%7C+PEFT+%7C+LangChain;Sharing+AI+Knowledge+through+Content!;Keep+Learning.+Keep+Building.+Keep+Inspiring." alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+ 
 
-## ✨ *“Code. Build. Share. Inspire.”*
+🚀 Software Engineer | GenAI Enthusiast | Mentor  
+💻 Tech Stack: Python | JavaScript | PHP | MySQL | React | Node.js | Django | PyTorch | Hugging Face | LangChain  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 🌟 About Me
+- 🎓 5+ years of experience in **software engineering**  
+- 🧠 Passionate about **Generative AI, RAG, and PEFT**  
+- 💡 Love building **practical projects and experimenting with new technologies**  
+- 🎥 Sharing knowledge via **YouTube & Instagram coding content**  
+- 🌱 Currently exploring **AI + Web Development** to stay ahead in tech  
+- 🤝 Open to **collaborations and contributing to open-source projects**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=flat-square)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 📌 Featured Projects
+🔹 [🧠 RAG-based YouTube Q&A App](#) – Extracts & answers questions from YouTube videos using LangChain + Gemini  
+🔹 [🤖 Fine-tuned Transformer with PEFT](#) – Efficient fine-tuning using LoRA/PEFT with PyTorch + Hugging Face  
+🔹 🌐 Portfolio Website Template (Coming soon 🚀)  
+🔹 📊 PyTorch Learning Notebooks (Coming soon 📖)  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AjeetCodes&theme=tokyonight&no-frame=true&row=1&column=6)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 📈 GitHub Stats
+![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetCodes&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetCodes&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjeetCodes&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 📊 Activity Graph
+[![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjeetCodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=AjeetCodes&label=Visitors&color=blue&style=flat)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
+## 📫 Connect with Me
+- 🌐 [Portfolio Website](#) (Coming soon 🚀)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajeet-yadav-55a0861a0/)  
+- 🎥 [YouTube](https://www.youtube.com/@buildwithajeet)  
+- 📧 [Email](mailto:ajeetyadav70520300@gmail.com)  
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+ ✨*“Build AI that learns. Share knowledge that inspires.”*  
+ — Ajeet Yadav
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
