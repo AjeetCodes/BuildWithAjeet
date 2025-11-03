@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AjeetCodes?tab=followers">
-    <img src="https://img.shields.io/github/followers/AjeetCodes?label=Follow&style=social" alt="GitHub Follow Badge" />
+  <a href="https://github.com/buildwithajeet?tab=followers">
+    <img src="https://img.shields.io/github/followers/buildwithajeet?label=Follow&style=social" alt="GitHub Follow Badge" />
   </a>
   <a href="https://www.linkedin.com/in/ajeet-yadav-55a0861a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
@@ -77,30 +77,30 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AjeetCodes&theme=tokyonight&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=buildwithajeet&theme=tokyonight&no-frame=true&row=1&column=6)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 📈 GitHub Stats
-![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetCodes&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetCodes&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjeetCodes&theme=tokyonight)  
+![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=buildwithajeet&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithajeet&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buildwithajeet&theme=tokyonight)  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 📊 Activity Graph
-[![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjeetCodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buildwithajeet&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 👀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=AjeetCodes&label=Visitors&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=buildwithajeet&label=Visitors&color=blue&style=flat)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
